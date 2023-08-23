@@ -7,7 +7,9 @@ function App() {
     <div>
       <Navbar/>
       <ListGroup />
+      <ListGroup />
       <Footer/>
+      <UnOrdered/>
       <UnOrdered/>
     </div>
   );
