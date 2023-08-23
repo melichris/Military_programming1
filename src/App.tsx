@@ -8,9 +8,9 @@ function App() {
       <Navbar/>
       <ListGroup />
       <ListGroup />
+      <UnOrdered/>
+      <UnOrdered/>
       <Footer/>
-      <UnOrdered/>
-      <UnOrdered/>
     </div>
   );
 }
